@@ -1,0 +1,127 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background:url(images/bg.gif);
+	background-position:top;
+	background-attachment:fixed;
+	font-family:Verdana, Geneva, sans-serif;
+	background-size:1980p× 1696px;
+  overflow: -moz-scrollbars-vertical; overflow-y: scroll;
+	
+}
+
+p{
+	font-size:12px;
+}
+
+h3{
+	color:#F90;
+	margin-bottom:-7px;
+}
+h4{
+	margin-bottom:-11px;
+}
+
+.photocredit{
+	font-size:9px;
+	margin-top:-10px;
+}
+
+#container{
+	width:950px;
+	color:#FFF;
+	margin:auto;
+}
+
+.title{
+	width:950px;
+}
+
+.navbar{
+	width:950px;
+	margin:auto;
+	margin-bottom:30px;
+}
+
+.navbutton{
+	margin-left:10px;
+	maring-right:10px;
+}
+
+.contentwrapper{
+	width:800px;
+	margin:auto;
+}
+
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	color: #FFF;
+}
+.pullquote{
+font:Georgia, "Times New Roman", Times, serif;
+font-style:italic;
+font-size:18px;
+color:#F90;
+}
+
+.bibliography{
+	width:760px;
+	margin:auto;
+}
+
+.profileimage{
+	float:left;
+	padding-right:10px;
+	padding-bottom:10px;
+	margin-top:10px;
+}
+.image{
+	float:left;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+.footer{
+	width:900px;
+	margin:auto;
+	font-size:10px;
+	text-align:center;
+	margin-top:25px;
+	margin-bottom:25px;
+}
+
+.footer a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+.footer a:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+.footer a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+.footer a:active {
+	text-decoration: none;
+	color: #FFF;
+}
+ol li {
+	font-size: 10px;
+	list-style:decimal-leading;
+	line-height:12pt;
+	
+}
